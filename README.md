@@ -1,5 +1,5 @@
 # projeto_b3
-This project aim to build a data enviroment wich is gonna be used for further analysis of brazilian stocks.
+This project aim to build a data enviroment which is gonna be used for further analysis of brazilian stocks.
 STACK: Bash Script, Airflow, Pandas, BeatifullSoup, Selenium, Boto3, PostgreSQL.
 The data roadmap is described as following:
 Web Scrapping using Selenium and BS4 to get data into local machine.
